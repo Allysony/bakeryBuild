@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.695ee973.chunk.js",
+    "main.js.map": "/static/js/main.695ee973.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1926f592.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1926f592.js.map",
+    "static/css/2.89f067aa.chunk.css": "/static/css/2.89f067aa.chunk.css",
+    "static/js/2.a3d775cd.chunk.js": "/static/js/2.a3d775cd.chunk.js",
+    "static/js/2.a3d775cd.chunk.js.map": "/static/js/2.a3d775cd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bb0c2524af8f9d3fd23ae4045b3035b7.js": "/precache-manifest.bb0c2524af8f9d3fd23ae4045b3035b7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a3d775cd.chunk.js.LICENSE.txt": "/static/js/2.a3d775cd.chunk.js.LICENSE.txt",
+    "static/media/bakers.png": "/static/media/bakers.3c5350ce.png",
+    "static/media/chinatown.jpg": "/static/media/chinatown.c5a9be50.jpg",
+    "static/media/cupcake.png": "/static/media/cupcake.800ff818.png",
+    "static/media/downtown.jpg": "/static/media/downtown.3beb6624.jpg",
+    "static/media/kyoto.jpg": "/static/media/kyoto.bf41f737.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1926f592.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.a3d775cd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.695ee973.chunk.js"
+  ]
+}
