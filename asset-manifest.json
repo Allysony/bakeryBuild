@@ -1,31 +1,30 @@
 {
   "files": {
     "main.css": "/bakeryBuild/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bakeryBuild/static/js/main.7c14c4a5.chunk.js",
-    "main.js.map": "/bakeryBuild/static/js/main.7c14c4a5.chunk.js.map",
+    "main.js": "/bakeryBuild/static/js/main.b5edf042.chunk.js",
+    "main.js.map": "/bakeryBuild/static/js/main.b5edf042.chunk.js.map",
     "runtime-main.js": "/bakeryBuild/static/js/runtime-main.6d5894e5.js",
     "runtime-main.js.map": "/bakeryBuild/static/js/runtime-main.6d5894e5.js.map",
     "static/css/2.89f067aa.chunk.css": "/bakeryBuild/static/css/2.89f067aa.chunk.css",
-    "static/js/2.a3d775cd.chunk.js": "/bakeryBuild/static/js/2.a3d775cd.chunk.js",
-    "static/js/2.a3d775cd.chunk.js.map": "/bakeryBuild/static/js/2.a3d775cd.chunk.js.map",
+    "static/js/2.1419116e.chunk.js": "/bakeryBuild/static/js/2.1419116e.chunk.js",
+    "static/js/2.1419116e.chunk.js.map": "/bakeryBuild/static/js/2.1419116e.chunk.js.map",
     "index.html": "/bakeryBuild/index.html",
-    "precache-manifest.477316b028f4069ea41205a99c7ab8f1.js": "/bakeryBuild/precache-manifest.477316b028f4069ea41205a99c7ab8f1.js",
+    "precache-manifest.a7a6d6b9b81d1e9b51358c5dba1d3250.js": "/bakeryBuild/precache-manifest.a7a6d6b9b81d1e9b51358c5dba1d3250.js",
     "service-worker.js": "/bakeryBuild/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/bakeryBuild/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/bakeryBuild/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a3d775cd.chunk.js.LICENSE.txt": "/bakeryBuild/static/js/2.a3d775cd.chunk.js.LICENSE.txt",
+    "static/js/2.1419116e.chunk.js.LICENSE.txt": "/bakeryBuild/static/js/2.1419116e.chunk.js.LICENSE.txt",
     "static/media/bakers.png": "/bakeryBuild/static/media/bakers.3c5350ce.png",
     "static/media/chinatown.jpg": "/bakeryBuild/static/media/chinatown.c5a9be50.jpg",
     "static/media/cupcake.png": "/bakeryBuild/static/media/cupcake.800ff818.png",
     "static/media/downtown.jpg": "/bakeryBuild/static/media/downtown.3beb6624.jpg",
-    "static/media/kyoto.jpg": "/bakeryBuild/static/media/kyoto.bf41f737.jpg",
-    "static/media/logo.svg": "/bakeryBuild/static/media/logo.5d5d9eef.svg"
+    "static/media/kyoto.jpg": "/bakeryBuild/static/media/kyoto.bf41f737.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6d5894e5.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.a3d775cd.chunk.js",
+    "static/js/2.1419116e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7c14c4a5.chunk.js"
+    "static/js/main.b5edf042.chunk.js"
   ]
 }
