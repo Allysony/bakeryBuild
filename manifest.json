@@ -24,4 +24,3 @@
   "background_color": "#ffffff"
 }
 
-singularity run --no-home -B /home/anyamasa/INF124/project1:/usr/local/tomcat/webapps --writable ics124-tomcat:simg
