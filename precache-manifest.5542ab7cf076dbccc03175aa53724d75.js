@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f35c2a894c8d917c63c9750c7c8e25f7",
+    "revision": "3f59c664bad3e1ca6e496510c9e2735a",
     "url": "/bakeryBuild/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bakeryBuild/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "a83658aca0c477ed410b",
+    "revision": "7f704a0a75d252e2737c",
     "url": "/bakeryBuild/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bakeryBuild/static/js/2.a3d775cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a83658aca0c477ed410b",
-    "url": "/bakeryBuild/static/js/main.dda6fea9.chunk.js"
+    "revision": "7f704a0a75d252e2737c",
+    "url": "/bakeryBuild/static/js/main.cde197b5.chunk.js"
   },
   {
     "revision": "83e1f00494d47d1dea34",
