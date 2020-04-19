@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9b3bfafa07acc7658525717fa3749d5",
+    "revision": "dba1907a08708ed95fc6d6df55ec6e24",
     "url": "/bakeryBuild/index.html"
   },
   {
-    "revision": "880310d4e29e8c3f83d7",
+    "revision": "2c9a0f897fa3e72dbe47",
     "url": "/bakeryBuild/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "ce64f4ceae0732158ca8",
+    "revision": "614485b3fcf0b9d266b1",
     "url": "/bakeryBuild/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "880310d4e29e8c3f83d7",
-    "url": "/bakeryBuild/static/js/2.1419116e.chunk.js"
+    "revision": "2c9a0f897fa3e72dbe47",
+    "url": "/bakeryBuild/static/js/2.1d8a22b3.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/bakeryBuild/static/js/2.1419116e.chunk.js.LICENSE.txt"
+    "url": "/bakeryBuild/static/js/2.1d8a22b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce64f4ceae0732158ca8",
-    "url": "/bakeryBuild/static/js/main.b5edf042.chunk.js"
+    "revision": "614485b3fcf0b9d266b1",
+    "url": "/bakeryBuild/static/js/main.61574887.chunk.js"
   },
   {
     "revision": "83e1f00494d47d1dea34",
