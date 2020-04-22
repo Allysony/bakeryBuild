@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/bakeryBuild/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bakeryBuild/static/js/main.61574887.chunk.js",
-    "main.js.map": "/bakeryBuild/static/js/main.61574887.chunk.js.map",
+    "main.css": "/bakeryBuild/static/css/main.13401b55.chunk.css",
+    "main.js": "/bakeryBuild/static/js/main.7c8b8428.chunk.js",
+    "main.js.map": "/bakeryBuild/static/js/main.7c8b8428.chunk.js.map",
     "runtime-main.js": "/bakeryBuild/static/js/runtime-main.6d5894e5.js",
     "runtime-main.js.map": "/bakeryBuild/static/js/runtime-main.6d5894e5.js.map",
     "static/css/2.89f067aa.chunk.css": "/bakeryBuild/static/css/2.89f067aa.chunk.css",
-    "static/js/2.1d8a22b3.chunk.js": "/bakeryBuild/static/js/2.1d8a22b3.chunk.js",
-    "static/js/2.1d8a22b3.chunk.js.map": "/bakeryBuild/static/js/2.1d8a22b3.chunk.js.map",
+    "static/js/2.8d7bd4ae.chunk.js": "/bakeryBuild/static/js/2.8d7bd4ae.chunk.js",
+    "static/js/2.8d7bd4ae.chunk.js.map": "/bakeryBuild/static/js/2.8d7bd4ae.chunk.js.map",
     "index.html": "/bakeryBuild/index.html",
-    "precache-manifest.7d1719dca3207c4d9a5bd0700caa1ee6.js": "/bakeryBuild/precache-manifest.7d1719dca3207c4d9a5bd0700caa1ee6.js",
+    "precache-manifest.8bc03f6c021df9a6ee0f00a593693002.js": "/bakeryBuild/precache-manifest.8bc03f6c021df9a6ee0f00a593693002.js",
     "service-worker.js": "/bakeryBuild/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/bakeryBuild/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/bakeryBuild/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1d8a22b3.chunk.js.LICENSE.txt": "/bakeryBuild/static/js/2.1d8a22b3.chunk.js.LICENSE.txt",
+    "static/css/main.13401b55.chunk.css.map": "/bakeryBuild/static/css/main.13401b55.chunk.css.map",
+    "static/js/2.8d7bd4ae.chunk.js.LICENSE.txt": "/bakeryBuild/static/js/2.8d7bd4ae.chunk.js.LICENSE.txt",
     "static/media/bakers.png": "/bakeryBuild/static/media/bakers.3c5350ce.png",
-    "static/media/chinatown.jpg": "/bakeryBuild/static/media/chinatown.c5a9be50.jpg",
+    "static/media/carousel_cookies.png": "/bakeryBuild/static/media/carousel_cookies.edf9f2d6.png",
+    "static/media/carousel_delivery.png": "/bakeryBuild/static/media/carousel_delivery.184d5254.png",
+    "static/media/carousel_update.png": "/bakeryBuild/static/media/carousel_update.05b03559.png",
     "static/media/cupcake.png": "/bakeryBuild/static/media/cupcake.800ff818.png",
-    "static/media/downtown.jpg": "/bakeryBuild/static/media/downtown.3beb6624.jpg",
-    "static/media/kyoto.jpg": "/bakeryBuild/static/media/kyoto.bf41f737.jpg"
+    "static/media/logo.png": "/bakeryBuild/static/media/logo.a6dc13b7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6d5894e5.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.1d8a22b3.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.61574887.chunk.js"
+    "static/js/2.8d7bd4ae.chunk.js",
+    "static/css/main.13401b55.chunk.css",
+    "static/js/main.7c8b8428.chunk.js"
   ]
 }
