@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/bakeryBuild/static/css/main.13401b55.chunk.css",
-    "main.js": "/bakeryBuild/static/js/main.7eb68e98.chunk.js",
-    "main.js.map": "/bakeryBuild/static/js/main.7eb68e98.chunk.js.map",
-    "runtime-main.js": "/bakeryBuild/static/js/runtime-main.6d5894e5.js",
-    "runtime-main.js.map": "/bakeryBuild/static/js/runtime-main.6d5894e5.js.map",
-    "static/css/2.89f067aa.chunk.css": "/bakeryBuild/static/css/2.89f067aa.chunk.css",
-    "static/js/2.f4137242.chunk.js": "/bakeryBuild/static/js/2.f4137242.chunk.js",
-    "static/js/2.f4137242.chunk.js.map": "/bakeryBuild/static/js/2.f4137242.chunk.js.map",
-    "index.html": "/bakeryBuild/index.html",
-    "precache-manifest.949bf2c73030fd1c847650dd87b31b52.js": "/bakeryBuild/precache-manifest.949bf2c73030fd1c847650dd87b31b52.js",
-    "service-worker.js": "/bakeryBuild/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/bakeryBuild/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.13401b55.chunk.css.map": "/bakeryBuild/static/css/main.13401b55.chunk.css.map",
-    "static/js/2.f4137242.chunk.js.LICENSE.txt": "/bakeryBuild/static/js/2.f4137242.chunk.js.LICENSE.txt",
-    "static/media/bakers.png": "/bakeryBuild/static/media/bakers.3c5350ce.png",
-    "static/media/carousel_cookies.png": "/bakeryBuild/static/media/carousel_cookies.edf9f2d6.png",
-    "static/media/carousel_delivery.png": "/bakeryBuild/static/media/carousel_delivery.184d5254.png",
-    "static/media/carousel_update.png": "/bakeryBuild/static/media/carousel_update.05b03559.png",
-    "static/media/cupcake.png": "/bakeryBuild/static/media/cupcake.800ff818.png",
-    "static/media/logo.png": "/bakeryBuild/static/media/logo.a6dc13b7.png"
+    "main.css": "/project2/static/css/main.13401b55.chunk.css",
+    "main.js": "/project2/static/js/main.ac7af246.chunk.js",
+    "main.js.map": "/project2/static/js/main.ac7af246.chunk.js.map",
+    "runtime-main.js": "/project2/static/js/runtime-main.d8b0a9c7.js",
+    "runtime-main.js.map": "/project2/static/js/runtime-main.d8b0a9c7.js.map",
+    "static/css/2.89f067aa.chunk.css": "/project2/static/css/2.89f067aa.chunk.css",
+    "static/js/2.f4137242.chunk.js": "/project2/static/js/2.f4137242.chunk.js",
+    "static/js/2.f4137242.chunk.js.map": "/project2/static/js/2.f4137242.chunk.js.map",
+    "index.html": "/project2/index.html",
+    "precache-manifest.fe46ef2fe7a48957600923fe79ee9c6d.js": "/project2/precache-manifest.fe46ef2fe7a48957600923fe79ee9c6d.js",
+    "service-worker.js": "/project2/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/project2/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.13401b55.chunk.css.map": "/project2/static/css/main.13401b55.chunk.css.map",
+    "static/js/2.f4137242.chunk.js.LICENSE.txt": "/project2/static/js/2.f4137242.chunk.js.LICENSE.txt",
+    "static/media/bakers.png": "/project2/static/media/bakers.3c5350ce.png",
+    "static/media/carousel_cookies.png": "/project2/static/media/carousel_cookies.edf9f2d6.png",
+    "static/media/carousel_delivery.png": "/project2/static/media/carousel_delivery.184d5254.png",
+    "static/media/carousel_update.png": "/project2/static/media/carousel_update.05b03559.png",
+    "static/media/cupcake.png": "/project2/static/media/cupcake.800ff818.png",
+    "static/media/logo.png": "/project2/static/media/logo.a6dc13b7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d5894e5.js",
+    "static/js/runtime-main.d8b0a9c7.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.f4137242.chunk.js",
     "static/css/main.13401b55.chunk.css",
-    "static/js/main.7eb68e98.chunk.js"
+    "static/js/main.ac7af246.chunk.js"
   ]
 }
